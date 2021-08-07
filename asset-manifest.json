@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_ShopLane/static/css/main.d586ea61.chunk.css",
+    "main.js": "/React_ShopLane/static/js/main.5c70d853.chunk.js",
+    "main.js.map": "/React_ShopLane/static/js/main.5c70d853.chunk.js.map",
+    "runtime-main.js": "/React_ShopLane/static/js/runtime-main.8c0724bf.js",
+    "runtime-main.js.map": "/React_ShopLane/static/js/runtime-main.8c0724bf.js.map",
+    "static/css/2.df93ccea.chunk.css": "/React_ShopLane/static/css/2.df93ccea.chunk.css",
+    "static/js/2.cd96512a.chunk.js": "/React_ShopLane/static/js/2.cd96512a.chunk.js",
+    "static/js/2.cd96512a.chunk.js.map": "/React_ShopLane/static/js/2.cd96512a.chunk.js.map",
+    "index.html": "/React_ShopLane/index.html",
+    "static/css/2.df93ccea.chunk.css.map": "/React_ShopLane/static/css/2.df93ccea.chunk.css.map",
+    "static/css/main.d586ea61.chunk.css.map": "/React_ShopLane/static/css/main.d586ea61.chunk.css.map",
+    "static/js/2.cd96512a.chunk.js.LICENSE.txt": "/React_ShopLane/static/js/2.cd96512a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c0724bf.js",
+    "static/css/2.df93ccea.chunk.css",
+    "static/js/2.cd96512a.chunk.js",
+    "static/css/main.d586ea61.chunk.css",
+    "static/js/main.5c70d853.chunk.js"
+  ]
+}
